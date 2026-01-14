@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Hamra",
+        "district_name_ar": "الحمراء",
+        "city": "Jeddah",
+        "district_id": "JED001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.165, 21.605], [39.185, 21.605], [39.185, 21.620],
+          [39.165, 21.620], [39.165, 21.605]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Zahra",
+        "district_name_ar": "الزهراء",
+        "city": "Jeddah",
+        "district_id": "JED002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.145, 21.590], [39.165, 21.590], [39.165, 21.605],
+          [39.145, 21.605], [39.145, 21.590]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Rawdah",
+        "district_name_ar": "الروضة",
+        "city": "Jeddah",
+        "district_id": "JED003"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.185, 21.570], [39.205, 21.570], [39.205, 21.585],
+          [39.185, 21.585], [39.185, 21.570]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Salamah",
+        "district_name_ar": "السلامة",
+        "city": "Jeddah",
+        "district_id": "JED004"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.165, 21.555], [39.185, 21.555], [39.185, 21.570],
+          [39.165, 21.570], [39.165, 21.555]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Andalus",
+        "district_name_ar": "الأندلس",
+        "city": "Jeddah",
+        "district_id": "JED005"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.205, 21.555], [39.225, 21.555], [39.225, 21.570],
+          [39.205, 21.570], [39.205, 21.555]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Balad (Historic District)",
+        "district_name_ar": "البلد",
+        "city": "Jeddah",
+        "district_id": "JED006"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.165, 21.475], [39.185, 21.475], [39.185, 21.490],
+          [39.165, 21.490], [39.165, 21.475]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Shati",
+        "district_name_ar": "الشاطئ",
+        "city": "Jeddah",
+        "district_id": "JED007"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.105, 21.530], [39.125, 21.530], [39.125, 21.545],
+          [39.105, 21.545], [39.105, 21.530]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Corniche",
+        "district_name_ar": "الكورنيش",
+        "city": "Jeddah",
+        "district_id": "JED008"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.095, 21.500], [39.115, 21.500], [39.115, 21.530],
+          [39.095, 21.530], [39.095, 21.500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Faisaliyah",
+        "district_name_ar": "الفيصلية",
+        "city": "Jeddah",
+        "district_id": "JED009"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.185, 21.620], [39.205, 21.620], [39.205, 21.635],
+          [39.185, 21.635], [39.185, 21.620]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Nahdah",
+        "district_name_ar": "النهضة",
+        "city": "Jeddah",
+        "district_id": "JED010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.205, 21.605], [39.225, 21.605], [39.225, 21.620],
+          [39.205, 21.620], [39.205, 21.605]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Khalidiyah",
+        "district_name_ar": "الخالدية",
+        "city": "Jeddah",
+        "district_id": "JED011"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.145, 21.540], [39.165, 21.540], [39.165, 21.555],
+          [39.145, 21.555], [39.145, 21.540]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Ruwais",
+        "district_name_ar": "الرويس",
+        "city": "Jeddah",
+        "district_id": "JED012"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.125, 21.490], [39.145, 21.490], [39.145, 21.505],
+          [39.125, 21.505], [39.125, 21.490]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Baghdadiyah",
+        "district_name_ar": "البغدادية",
+        "city": "Jeddah",
+        "district_id": "JED013"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.165, 21.490], [39.185, 21.490], [39.185, 21.505],
+          [39.165, 21.505], [39.165, 21.490]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Obhur",
+        "district_name_ar": "أبحر",
+        "city": "Jeddah",
+        "district_id": "JED014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.085, 21.700], [39.115, 21.700], [39.115, 21.730],
+          [39.085, 21.730], [39.085, 21.700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Aziziyah",
+        "district_name_ar": "العزيزية",
+        "city": "Jeddah",
+        "district_id": "JED015"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.145, 21.605], [39.165, 21.605], [39.165, 21.620],
+          [39.145, 21.620], [39.145, 21.605]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Naeem",
+        "district_name_ar": "النعيم",
+        "city": "Jeddah",
+        "district_id": "JED016"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.145, 21.520], [39.165, 21.520], [39.165, 21.535],
+          [39.145, 21.535], [39.145, 21.520]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Mohammadiyah",
+        "district_name_ar": "المحمدية",
+        "city": "Jeddah",
+        "district_id": "JED017"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.125, 21.505], [39.145, 21.505], [39.145, 21.520],
+          [39.125, 21.520], [39.125, 21.505]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Safa",
+        "district_name_ar": "الصفا",
+        "city": "Jeddah",
+        "district_id": "JED018"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.185, 21.590], [39.205, 21.590], [39.205, 21.605],
+          [39.185, 21.605], [39.185, 21.590]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Marwah",
+        "district_name_ar": "المروة",
+        "city": "Jeddah",
+        "district_id": "JED019"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.165, 21.575], [39.185, 21.575], [39.185, 21.590],
+          [39.165, 21.590], [39.165, 21.575]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Sharafiyah",
+        "district_name_ar": "الشرفية",
+        "city": "Jeddah",
+        "district_id": "JED020"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.205, 21.590], [39.225, 21.590], [39.225, 21.605],
+          [39.205, 21.605], [39.205, 21.590]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Mushrifah",
+        "district_name_ar": "المشرفة",
+        "city": "Jeddah",
+        "district_id": "JED021"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.225, 21.570], [39.245, 21.570], [39.245, 21.585],
+          [39.225, 21.585], [39.225, 21.570]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Basateen",
+        "district_name_ar": "البساتين",
+        "city": "Jeddah",
+        "district_id": "JED022"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.225, 21.620], [39.245, 21.620], [39.245, 21.635],
+          [39.225, 21.635], [39.225, 21.620]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Rehab",
+        "district_name_ar": "الرحاب",
+        "city": "Jeddah",
+        "district_id": "JED023"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.205, 21.635], [39.225, 21.635], [39.225, 21.650],
+          [39.205, 21.650], [39.205, 21.635]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Waha",
+        "district_name_ar": "الواحة",
+        "city": "Jeddah",
+        "district_id": "JED024"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.185, 21.650], [39.205, 21.650], [39.205, 21.665],
+          [39.185, 21.665], [39.185, 21.650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district_name_en": "Al Bawadi",
+        "district_name_ar": "البوادي",
+        "city": "Jeddah",
+        "district_id": "JED025"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.225, 21.540], [39.245, 21.540], [39.245, 21.555],
+          [39.225, 21.555], [39.225, 21.540]
+        ]]
+      }
+    }
+  ]
+}
