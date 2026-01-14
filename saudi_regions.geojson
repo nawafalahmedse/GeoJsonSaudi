@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Riyadh",
+        "region_name_ar": "الرياض",
+        "region_code": "01",
+        "capital": "Riyadh",
+        "cities": ["Riyadh", "Al-Kharj", "Al-Majma'ah", "Al-Quwayiyah", "Afif", "Al-Zulfi", "Shaqra", "Hotat Bani Tamim", "Layla", "Marat", "Rumah", "Thadiq", "Harmah", "Huraymila", "Darma", "Muzahmiyya", "Dawadmi"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [46.5, 25.5], [47.5, 25.5], [48.0, 25.0], [48.5, 24.5],
+          [48.5, 23.5], [48.0, 23.0], [47.5, 22.5], [46.5, 22.5],
+          [45.5, 23.0], [45.0, 23.5], [45.0, 24.5], [45.5, 25.0],
+          [46.5, 25.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Makkah",
+        "region_name_ar": "مكة المكرمة",
+        "region_code": "02",
+        "capital": "Makkah",
+        "cities": ["Makkah", "Jeddah", "Taif", "Qunfudhah", "Rabigh", "Khulais", "Ranyah", "Turubah", "Jumum", "Adham", "Kamil", "Khurma", "Maisan", "Bahrah", "Al-Lith", "Al-Muwayh", "Maysan"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [39.0, 22.0], [40.5, 22.0], [41.5, 21.5], [42.0, 21.0],
+          [42.0, 20.0], [41.5, 19.0], [40.5, 18.5], [39.5, 18.5],
+          [38.5, 19.0], [38.0, 20.0], [38.0, 21.0], [38.5, 21.5],
+          [39.0, 22.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Madinah",
+        "region_name_ar": "المدينة المنورة",
+        "region_code": "03",
+        "capital": "Madinah",
+        "cities": ["Madinah", "Yanbu", "Al-Ula", "Mahd adh Dhahab", "Badr", "Khaybar", "Al-Hanakiyah", "Al-Mahd", "Wadi Al-Fara"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.0, 26.0], [40.0, 26.0], [40.5, 25.5], [40.5, 24.5],
+          [40.0, 24.0], [39.0, 23.5], [38.0, 23.5], [37.5, 24.0],
+          [37.5, 25.0], [38.0, 26.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Eastern Province",
+        "region_name_ar": "المنطقة الشرقية",
+        "region_code": "04",
+        "capital": "Dammam",
+        "cities": ["Dammam", "Khobar", "Dhahran", "Jubail", "Al-Ahsa", "Qatif", "Hafar Al-Batin", "Ras Tanura", "Khafji", "Abqaiq", "Nairiyah", "Hofuf", "Mubarraz", "Qaisumah", "Udhailiyah"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [48.5, 28.0], [50.5, 28.0], [50.5, 27.0], [51.0, 26.0],
+          [51.5, 25.0], [51.5, 24.0], [51.0, 23.0], [50.5, 22.5],
+          [49.5, 22.5], [48.5, 23.0], [48.0, 24.0], [48.0, 25.5],
+          [48.5, 27.0], [48.5, 28.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Asir",
+        "region_name_ar": "عسير",
+        "region_code": "05",
+        "capital": "Abha",
+        "cities": ["Abha", "Khamis Mushait", "Bisha", "Sarat Abidah", "Ahad Rafidah", "Rijal Almaa", "Al-Namas", "Tanomah", "Balqarn", "Bareq", "Mahayil", "Dhahran Al Janub"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [42.0, 19.5], [43.5, 19.5], [44.0, 19.0], [44.0, 18.0],
+          [43.5, 17.5], [42.5, 17.5], [42.0, 18.0], [41.5, 18.5],
+          [41.5, 19.0], [42.0, 19.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Tabuk",
+        "region_name_ar": "تبوك",
+        "region_code": "06",
+        "capital": "Tabuk",
+        "cities": ["Tabuk", "Duba", "Haql", "Al-Wajh", "Tayma", "Umluj", "Dhuba", "Al-Bad", "Sharma"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.0, 29.0], [38.0, 29.0], [38.5, 28.5], [38.5, 27.5],
+          [38.0, 27.0], [37.0, 26.5], [36.0, 26.5], [35.0, 27.0],
+          [34.5, 27.5], [34.5, 28.5], [35.0, 29.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Qassim",
+        "region_name_ar": "القصيم",
+        "region_code": "07",
+        "capital": "Buraidah",
+        "cities": ["Buraidah", "Unaizah", "Ar Rass", "Al-Badaya", "Al-Bukayriyah", "Riyadh Al-Khabra", "Al-Mithnab", "Uyun Al-Jiwa", "Uyun Al-Atash", "Al-Shammasiyah", "Dariyah", "Uqlat Al-Suqur", "Al-Asyah"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [42.5, 27.0], [44.5, 27.0], [45.0, 26.5], [45.0, 25.5],
+          [44.5, 25.0], [43.5, 25.0], [42.5, 25.5], [42.0, 26.0],
+          [42.0, 26.5], [42.5, 27.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Hail",
+        "region_name_ar": "حائل",
+        "region_code": "08",
+        "capital": "Hail",
+        "cities": ["Hail", "Baqaa", "Al-Ghazalah", "Ash-Shinan", "Al-Suleimi", "Samira", "Mawqaq", "Jubbah"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [40.5, 28.5], [43.0, 28.5], [43.5, 28.0], [43.5, 27.0],
+          [43.0, 26.5], [42.0, 26.5], [41.0, 27.0], [40.5, 27.5],
+          [40.5, 28.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Northern Borders",
+        "region_name_ar": "الحدود الشمالية",
+        "region_code": "09",
+        "capital": "Arar",
+        "cities": ["Arar", "Rafha", "Turaif", "Al-Uwayqilah"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [40.0, 31.5], [42.5, 31.5], [42.5, 30.5], [42.0, 30.0],
+          [41.5, 29.5], [40.5, 29.5], [40.0, 30.0], [40.0, 31.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Jazan",
+        "region_name_ar": "جازان",
+        "region_code": "10",
+        "capital": "Jazan",
+        "cities": ["Jazan", "Sabya", "Abu Arish", "Samtah", "Damad", "Ahad Al Masarihah", "Al-Harth", "Al-Aridah", "Farasan", "Ad-Dair", "Baish", "Fayfa", "Al-Ardah"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [42.0, 17.5], [43.5, 17.5], [43.5, 16.5], [43.0, 16.0],
+          [42.5, 16.0], [42.0, 16.5], [42.0, 17.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Najran",
+        "region_name_ar": "نجران",
+        "region_code": "11",
+        "capital": "Najran",
+        "cities": ["Najran", "Sharurah", "Hubuna", "Badr Al-Janoub", "Yadamah", "Khubash", "Thar"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [44.0, 18.5], [46.0, 18.5], [46.5, 18.0], [46.5, 17.0],
+          [46.0, 16.5], [45.0, 16.5], [44.0, 17.0], [44.0, 18.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Al-Bahah",
+        "region_name_ar": "الباحة",
+        "region_code": "12",
+        "capital": "Al-Bahah",
+        "cities": ["Al-Bahah", "Baljurashi", "Al-Mandaq", "Al-Mikhwah", "Al-Aqiq", "Qilwah", "Al-Qura", "Bani Hassan"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [41.0, 20.5], [42.0, 20.5], [42.5, 20.0], [42.5, 19.5],
+          [42.0, 19.0], [41.5, 19.0], [41.0, 19.5], [41.0, 20.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region_name_en": "Al-Jouf",
+        "region_name_ar": "الجوف",
+        "region_code": "13",
+        "capital": "Sakaka",
+        "cities": ["Sakaka", "Dumat Al-Jandal", "Qurayyat", "Tabarjal", "Suwayr"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [38.0, 31.0], [41.0, 31.0], [41.5, 30.5], [41.5, 29.5],
+          [41.0, 29.0], [39.5, 29.0], [38.5, 29.5], [38.0, 30.0],
+          [38.0, 31.0]
+        ]]
+      }
+    }
+  ]
+}
